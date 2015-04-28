@@ -1,0 +1,29 @@
+.mega-button{
+	display: table;
+	float: left;
+	position: relative;
+	min-width: 200px;
+	min-height: 70px;
+	background: blue;
+}
+
+.content-btn{
+	display: table-cell;
+	height: 100%;
+	width: 95%;
+	/*position: absolute;
+	left: 0;
+	top: 0;
+	width: 95%;
+	height: 100%;
+	background: red;*/
+}
+
+.tr-btn{
+	display: table-cell;
+	width: 10%;
+	background: white;
+	/*border-left: 10px solid blue;
+	border-bottom: 10px solid white;
+	border-top: 10px solid white;*/
+}
